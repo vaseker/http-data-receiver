@@ -1,0 +1,4 @@
+.DS*
+.git
+node_modules
+*.txt
